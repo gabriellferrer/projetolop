@@ -1,7 +1,7 @@
 <script>
 /* 
 Equipe: 
-Gabriel Lucas Aguiar Ferrer -  (Líder) 
+Gabriel Lucas Aguiar Ferrer - 01C(Líder) 
 Etapas 1-2
 */
 
